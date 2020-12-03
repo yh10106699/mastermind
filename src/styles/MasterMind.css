@@ -1,0 +1,19 @@
+.MasterMindWrapper{
+    width: 500px;
+    margin: 10px auto;
+}
+
+.rowWrapper{
+    margin: 15px auto;
+}
+
+.container-overlay{
+    visibility: visible;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+
+    background: rgba(0, 0, 0, 0.6);
+}

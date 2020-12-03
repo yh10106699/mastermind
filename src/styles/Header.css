@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Sigmar+One&display=swap');
+
+
+.headerName{
+    font-family: 'Sigmar One', cursive;
+    color: rgb(97,133,152);
+    font-size: 3.7em;
+    margin: 0 auto;
+}
+
+.ruleLink{
+    position: relative;
+    color: rgb(97,133,152);
+    left: 75%;
+    top: -15px;
+}
