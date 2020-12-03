@@ -10,7 +10,7 @@ const color = [
     "#327329",
     "#f1a045",
     "#ea3bf1",
-    "#021cef"
+    "#021cef",
 ];
 
 const INITIAL_STATE = {answer: [], row: 0, result: 0, reset: false}; //result --- 0: not finished, 1: win, 2: lose
